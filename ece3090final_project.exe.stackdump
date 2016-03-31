@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004022C2
+eax=00000001 ebx=00000000 ecx=00000000 edx=00000001 esi=61276708 edi=611A1E9F
+ebp=0028A8A8 esp=0028A860 program=C:\Users\Sahil Gupta\Documents\NetBeansProjects\ECE 3090 Homeworks\ECE3090FINAL_PROJECT\dist\Debug\Cygwin_4.x-Windows\ece3090final_project.exe, pid 14352, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028A8A8  004022C2  (0028AB4C, 20048538, 00000114, 00000139)
+0028AC48  004019CA  (61230049, 611A1EB6, 00000000, 6100763A)
+0028ACF8  6100763A  (00000000, 0028CD78, 61006C50, 00000000)
+End of stack trace
